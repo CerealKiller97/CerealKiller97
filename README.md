@@ -4,7 +4,7 @@ I'm a Software Engineer who is passionate about making open-source more accessib
 Some technologies I enjoy working with include React, Vue, Angular, Typescript, NodeJS, Laravel and ASP .NET Core.  <br />
   
 ## Find me around the web 🌎: <a href="https://github.com/CerealKiller97"><img align="left" width="150" height="150" src="https://github.com/CerealKiller97/CerealKiller97/blob/master/octocat.png"></a>
-  - Personal website <a href="">Website</a>
+  - <a href="">Website</a>
   - <a href="https://www.linkedin.com/in/bogdanovic-stefan/">LinkedIn</a> 💼
 
 <!--
