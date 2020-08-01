@@ -1,5 +1,12 @@
 ### Hi, I'm Stefan 👋
 
+I'm a software engineer who is passionate about making open-source more accessible. 
+Some technologies I enjoy working with include React, Vue, Angular, Typescript, NodeJS, Laravel and ASP .NET Core.
+
+Find me around the web 🌎:
+  - Personal website: []
+  - LinkedIn: [https://www.linkedin.com/in/bogdanovic-stefan/]
+
 <!--
 **CerealKiller97/CerealKiller97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
