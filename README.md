@@ -4,8 +4,7 @@ I'm a software engineer who is passionate about making open-source more accessib
 Some technologies I enjoy working with include React, Vue, Angular, Typescript, NodeJS, Laravel and ASP .NET Core.
   
 ## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
-- Personal website <a href="https://www.twitch.tv/blacktechdiva">Website</a>
-- Tinkering with interactions on <a href="https://codepen.io/m0nica"> Codepen</a> 🏓
+- Personal website <a href="">Website</a>
 - Sharing updates on <a href="https://www.linkedin.com/in/bogdanovic-stefan/">LinkedIn</a> 💼
 
 <!--
