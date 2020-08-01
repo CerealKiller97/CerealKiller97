@@ -5,7 +5,7 @@ Some technologies I enjoy working with include React, Vue, Angular, Typescript, 
 
 Find me around the web 🌎:
   - Personal website: []
-  - LinkedIn: [https://www.linkedin.com/in/bogdanovic-stefan/]
+  - [LinkedIn]: (https://www.linkedin.com/in/bogdanovic-stefan/)`
 
 <!--
 **CerealKiller97/CerealKiller97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
