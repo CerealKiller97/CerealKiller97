@@ -7,6 +7,9 @@ Some technologies I enjoy working with include React, Vue, Angular, Typescript, 
   - <a href="">Website</a>
   - <a href="https://www.linkedin.com/in/bogdanovic-stefan/">LinkedIn</a> 💼
 
+https://github-readme-stats.vercel.app/api?username=CerealKiller97&count_private=true&show_icons=true&theme=dark
+https://github-readme-stats.vercel.app/api/top-langs/?username=CerealKiller97&hide=css,html
+
 <!--
 **CerealKiller97/CerealKiller97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
