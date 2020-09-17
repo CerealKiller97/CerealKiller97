@@ -7,7 +7,7 @@
 
 
 I'm a Software Engineer who is passionate about making open-source more accessible. <br />
-Some technologies I enjoy working with include React, Vue, Angular, Typescript, NodeJS, Laravel and ASP .NET Core.  <br />
+
 
 ### Languages and Tools:
 
