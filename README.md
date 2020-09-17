@@ -1,10 +1,15 @@
-### Hi, I'm Stefan 👋
+### Hi, I'm Stefan Bogdanović 👋
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bogdanovic-stefan)
+[<img src="https://img.shields.io/badge/facebook-%230077B5.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=4267B2" />](https://www.facebook.com/Brateu)
+
+<!-- [<img src="https://img.shields.io/badge/personal_website-%230077B5.svg?&style=for-the-badge&color=ef6c00" />](https://stefan-bogdanovic.now.sh) -->
 
 
 I'm a Software Engineer who is passionate about making open-source more accessible. <br />
 Some technologies I enjoy working with include React, Vue, Angular, Typescript, NodeJS, Laravel and ASP .NET Core.  <br />
+
+If you have any questions or if you want to connect with me, feel free to drop me an email at bogdanovic.stefan@outlook.com
   
   ![Stefan Bogdanovic's github stats](https://github-readme-stats.vercel.app/api?username=CerealKiller97&count_private=true&show_icons=true)
   <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CerealKiller97&hide=css,html) -->
