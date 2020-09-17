@@ -1,5 +1,8 @@
 ### Hi, I'm Stefan 👋
 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bogdanovic-stefan)
+
+
 I'm a Software Engineer who is passionate about making open-source more accessible. <br />
 Some technologies I enjoy working with include React, Vue, Angular, Typescript, NodeJS, Laravel and ASP .NET Core.  <br />
   
