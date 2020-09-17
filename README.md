@@ -9,7 +9,7 @@
 I'm a Software Engineer who is passionate about making open-source more accessible. <br />
 
 
-### Languages and Tools:
+### Technology stack:
 
 #### Frontend:
 <!--
