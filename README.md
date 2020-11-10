@@ -33,6 +33,8 @@ I'm a Software Engineer who is passionate about making open-source more accessib
 
 #### Databases:
 <img align="left" alt="PostgreSQL" width="26px" src="https://avatars0.githubusercontent.com/u/177543?s=200&v=4" />
+<img align="left" alt="MariaDB" width="26px" src="https://avatars0.githubusercontent.com/mariadb" />
+
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Redis" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" />
 
