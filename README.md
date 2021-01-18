@@ -1,7 +1,6 @@
 ### Hi, I'm Stefan Bogdanović 👋
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bogdanovic-stefan)
-[<img src="https://img.shields.io/badge/facebook-%230077B5.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=4267B2" />](https://www.facebook.com/Brateu)
 
 <!-- [<img src="https://img.shields.io/badge/personal_website-%230077B5.svg?&style=for-the-badge&color=ef6c00" />](https://stefan-bogdanovic.now.sh) -->
 
