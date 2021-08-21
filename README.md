@@ -52,7 +52,8 @@ I'm a Backend Software Engineer from Serbia who is passionate about making open-
 
 If you have any questions or if you want to connect with me, feel free to drop me an email at bogdanovic.stefan@outlook.com
   
-  ![Stefan Bogdanovic's github stats](https://github-readme-stats.vercel.app/api?username=CerealKiller97&count_private=true&show_icons=true)
+  ![Stefan Bogdanovic's github stats](https://github-readme-stats.vercel.app/api?username=CerealKiller97&show_icons=true&theme=tokyonight&count_private=true)
+  
   <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CerealKiller97&hide=css,html) -->
 
 <!---
