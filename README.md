@@ -5,7 +5,7 @@
 <!-- [<img src="https://img.shields.io/badge/personal_website-%230077B5.svg?&style=for-the-badge&color=ef6c00" />](https://stefan-bogdanovic.now.sh) -->
 
 
-I'm a Backend Software Engineer from Serbia who is passionate about making open-source more accessible. <br /> Proud member and owner of organization BrosSquad.
+I'm a Software Developer from Serbia who is passionate about making open-source more accessible. <br /> Proud member and owner of organization BrosSquad.
 
 ### Technology stack:
 
