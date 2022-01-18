@@ -59,11 +59,7 @@ If you have any questions or if you want to connect with me, feel free to drop m
   
   ##### :pencil: Recent posts
 <!-- BLOG-POST-LIST:START -->
-- [Test](https://stefanbogdanovic.dev/blog/test)
-- [New features in v1](https://stefanbogdanovic.dev/blog/new-features-in-v1)
-- [Introducing Multi-part Posts with Nested Routing](https://stefanbogdanovic.dev/blog/nested-route/introducing-multi-part-posts-with-nested-routing)
-- [Introducing Tailwind Nextjs Starter Blog](https://stefanbogdanovic.dev/blog/introducing-tailwind-nextjs-starter-blog)
-- [Images in Next.js](https://stefanbogdanovic.dev/blog/guide-to-using-images-in-nextjs)
+- [Why Should You Invest In Typescript?](https://stefanbogdanovic.dev/blog/why-should-you-invest-in-typescript)
 <!-- BLOG-POST-LIST:END -->
   
   <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CerealKiller97&hide=css,html) -->
