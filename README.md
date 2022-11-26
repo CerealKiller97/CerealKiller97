@@ -66,6 +66,7 @@ If you have any questions or if you want to connect with me, feel free to drop m
   
  <!-- ##### :pencil: Recent posts -->
 <!-- BLOG-POST-LIST:START -->
+- [Why Should You Invest In Typescript?](https://stefanbogdanovic.dev/blog/why-should-you-invest-in-typescript)
 <!-- BLOG-POST-LIST:END -->
   
   <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CerealKiller97&hide=css,html) -->
