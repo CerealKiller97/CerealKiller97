@@ -65,10 +65,7 @@ If you have any questions or if you want to connect with me, feel free to drop m
   ![Stefan Bogdanovic's github stats](https://github-readme-stats.vercel.app/api?username=CerealKiller97&show_icons=true&card_width=400&hide_border=true&title_color=f4f4f4&icon_color=00d8fd&bg_color=0A1A2F&text_color=a3a8c3&hide=contribs&count_private=true)
   
  <!-- ##### :pencil: Recent posts -->
-<!-- BLOG-POST-LIST:START -->
-- [Why Should You Invest In Typescript?](https://stefanbogdanovic.dev/blog/why-should-you-invest-in-typescript)
-<!-- BLOG-POST-LIST:END -->
-  
+
   <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CerealKiller97&hide=css,html) -->
 
 <!---
