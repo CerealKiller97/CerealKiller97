@@ -11,8 +11,8 @@ I'm a Software Developer from Serbia who is passionate about making open-source 
 - ⛑️ Maintaining set of Go libraries for [NanoInteractive](https://github.com/nano-interactive)
 - 💼 [FastEndpoints](https://github.com/FastEndpoints) contributor
 - 🧑‍💻 FON Hackathon 2021 Winner [relieveme](https://github.com/BrosSquad/relieveme)
-- 🏗️ [GoFiber Boilerplate](https://github.com/BrosSquad/GoFiber-Boilerplate) creator
-- 🏗️ [FastEndpoints.Template](https://github.com/BrosSquad/FastEndpoints.Template) creator
+- 🏗️ [GoFiber Boilerplate](https://github.com/BrosSquad/GoFiber-Boilerplate) creator and maintainer
+- 🏗️ [FastEndpoints.Template](https://github.com/BrosSquad/FastEndpoints.Template) creator and maintainer
 
 ### Technology stack:
 
