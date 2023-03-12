@@ -27,6 +27,8 @@ I'm a Software Developer from Serbia who is passionate about making open-source 
 <br />
 
 #### Backend:
+<img align="left" alt="Go" width="26px"
+     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> 
 <img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img align="left" alt="AdonisJS" width="26px" src="https://avatars.githubusercontent.com/u/13810373?s=200&v=4" />
