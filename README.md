@@ -32,17 +32,17 @@ I'm a Software Developer from Serbia who is passionate about making open-source 
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> 
 <img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img align="left" alt="AdonisJS" width="26px" src="https://avatars.githubusercontent.com/u/13810373?s=200&v=4" />
-<img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" /> 
+<img align="left" alt="Laravel" width="26px" src="https://avatars.githubusercontent.com/u/958072?s=200&v=4" /> 
 <img align="left" alt="ASP NET Core" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" /> 
 
 <br />
 
 #### Databases:
-<img align="left" alt="PostgreSQL" width="26px" src="https://avatars0.githubusercontent.com/u/177543?s=200&v=4" />
+<img align="left" alt="PostgreSQL" width="26px" src="https://avatars.githubusercontent.com/u/177543?s=200&v=4" />
 <img align="left" alt="MariaDB" width="26px" src="https://avatars0.githubusercontent.com/mariadb" />
 
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Redis" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" />
+<img align="left" alt="MongoDB" width="26px" src="https://avatars.githubusercontent.com/u/45120?s=200&v=4" />
+<img align="left" alt="Redis" width="26px" src="https://avatars.githubusercontent.com/u/1529926?s=200&v=4" />
 
 
 <br />
