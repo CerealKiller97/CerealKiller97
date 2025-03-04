@@ -7,7 +7,7 @@
 
 I'm a Senior Software Engineer with 5+ years of experience. I am skilled in developing web applications and microservices. I specialize in developing scalable and high-performance applications. My expertise includes system architecture design, API integration, and automation. I actively contribute to open source projects and support the open source community. <br /> Proud member and owner of organization [BrosSquad](https://github.com/BrosSquad).
 
-- 🏢 I'm currently working as a Software Engineer at [NanoInteractive](https://github.com/nano-interactive)
+- 🏢 I'm currently working as a Senior Software Engineer at [NanoInteractive](https://github.com/nano-interactive)
 - ⛑️ Maintaining set of Go libraries for [NanoInteractive](https://github.com/nano-interactive)
 - 🧑‍💻 FON Hackathon 2021 Winner [relieveme](https://github.com/BrosSquad/relieveme)
 - 💼 [FastEndpoints](https://github.com/FastEndpoints) contributor
