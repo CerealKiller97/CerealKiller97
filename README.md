@@ -5,7 +5,8 @@
 <!-- [<img src="https://img.shields.io/badge/personal_website-%230077B5.svg?&style=for-the-badge&color=ef6c00" />](https://stefan-bogdanovic.now.sh) -->
 
 
-I'm a Senior Software Engineer with 5+ years of experience. I am skilled in developing web applications and microservices. I specialize in developing scalable and high-performance applications. My expertise includes system architecture design, API integration, and automation. I actively contribute to open source projects and support the open source community. <br /> Proud member and owner of organization [BrosSquad](https://github.com/BrosSquad).
+I'm a Senior Software Engineer with 5+ years of experience, skilled in developing web applications and microservices. I specialize in developing scalable and high-performance applications, with a particular focus on system architecture design, API integration, and automation. Through this technical expertise, I maintain a strong emphasis on writing clean, simple, and testable code that prioritizes maintainability and readability. I actively contribute to open source projects and support the open source community.
+ <br /> Proud member and owner of organization [BrosSquad](https://github.com/BrosSquad).
 
 - 🏢 I'm currently working as a Senior Software Engineer at [NanoInteractive](https://github.com/nano-interactive)
 - ⛑️ Maintaining set of Go libraries for [NanoInteractive](https://github.com/nano-interactive)
