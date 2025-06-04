@@ -1,14 +1,14 @@
 ### Hi, I'm Stefan Bogdanović 👋
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bogdanovic-stefan)
+[<img src="https://img.shields.io/badge/personal_website-%230077B5.svg?&style=for-the-badge&color=ef6c00" />]([https://stefanbogdanovic.dev])
 
-<!-- [<img src="https://img.shields.io/badge/personal_website-%230077B5.svg?&style=for-the-badge&color=ef6c00" />](https://stefan-bogdanovic.now.sh) -->
+As a versatile and experienced Software Developer, I have a strong focus on developing web applications and microservices, and I am dedicated to delivering robust, reliable, and high-performance software. My work emphasizes system architecture design, API integration, and automation, while I prioritize writing clean, simple, and testable code that ensures maintainability and readability.
 
-
-I'm a Senior Software Developer with 5+ years of experience, skilled in developing web applications and microservices. I specialize in developing scalable and high-performance applications, with a particular focus on system architecture design, API integration, and automation. Through this technical expertise, I maintain a strong emphasis on writing clean, simple, and testable code that prioritizes maintainability and readability. I actively contribute to open source projects and support the open source community.
+I actively contribute to open source projects and support the open source community.
  <br /> Proud member and owner of organization [BrosSquad](https://github.com/BrosSquad).
 
-- 🏢 I'm currently working as a Senior Software Engineer at [NanoInteractive](https://github.com/nano-interactive)
+- 🏢 I'm currently working as a Senior Software Developer at [NanoInteractive](https://github.com/nano-interactive)
 - ⛑️ Maintaining set of Go libraries for [NanoInteractive](https://github.com/nano-interactive)
 - 🧑‍💻 FON Hackathon 2021 Winner [relieveme](https://github.com/BrosSquad/relieveme)
 - 💼 [FastEndpoints](https://github.com/FastEndpoints) contributor
@@ -60,9 +60,9 @@ I'm a Senior Software Developer with 5+ years of experience, skilled in developi
 ---
 
 
-If you have any questions or if you want to connect with me, feel free to drop me an email at bogdanovic.stefan@outlook.com
+If you have any questions or if you want to connect with me, feel free to drop me an email at stefan@stefanbogdanovic.dev
   
-  ![Stefan Bogdanovic's github stats](https://github-readme-stats.vercel.app/api?username=CerealKiller97&show_icons=true&card_width=400&hide_border=true&title_color=f4f4f4&icon_color=00d8fd&bg_color=0A1A2F&text_color=a3a8c3&hide=contribs&count_private=true)
+ <!--  ![Stefan Bogdanovic's github stats](https://github-readme-stats.vercel.app/api?username=CerealKiller97&show_icons=true&card_width=400&hide_border=true&title_color=f4f4f4&icon_color=00d8fd&bg_color=0A1A2F&text_color=a3a8c3&hide=contribs&count_private=true) -->
   
  <!-- ##### :pencil: Recent posts -->
 
