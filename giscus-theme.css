@@ -1,0 +1,272 @@
+/*!
+ * Portfolio — custom Giscus theme
+ * Matches site tokens: black canvas, cyan accent, card borders.
+ */
+
+:host,
+html {
+	--font-family-sans: 'Inter Tight Variable', ui-sans-serif, system-ui, sans-serif;
+	--font-family-monospace: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+	--font-family-default: var(--font-family-sans);
+}
+
+main {
+	--color-prettylights-syntax-comment: #8a8a8a;
+	--color-prettylights-syntax-constant: #00e5ff;
+	--color-prettylights-syntax-entity: #c0c0c0;
+	--color-prettylights-syntax-storage-modifier-import: #c0c0c0;
+	--color-prettylights-syntax-entity-tag: #00e5ff;
+	--color-prettylights-syntax-keyword: #00b8d4;
+	--color-prettylights-syntax-string: #96d0ff;
+	--color-prettylights-syntax-variable: #f69d50;
+	--color-prettylights-syntax-brackethighlighter-unmatched: #f85149;
+	--color-prettylights-syntax-invalid-illegal-text: #ffffff;
+	--color-prettylights-syntax-invalid-illegal-bg: #3d1010;
+	--color-prettylights-syntax-carriage-return-text: #ffffff;
+	--color-prettylights-syntax-carriage-return-bg: #3d1010;
+	--color-prettylights-syntax-string-regexp: #00e5ff;
+	--color-prettylights-syntax-markup-list: #c0c0c0;
+	--color-prettylights-syntax-markup-heading: #00e5ff;
+	--color-prettylights-syntax-markup-italic: #c0c0c0;
+	--color-prettylights-syntax-markup-bold: #ffffff;
+	--color-prettylights-syntax-markup-deleted-text: #ffdcd7;
+	--color-prettylights-syntax-markup-deleted-bg: #3d1010;
+	--color-prettylights-syntax-markup-inserted-text: #b4f1b4;
+	--color-prettylights-syntax-markup-inserted-bg: #0f2a18;
+	--color-prettylights-syntax-markup-changed-text: #ffddb0;
+	--color-prettylights-syntax-markup-changed-bg: #3d2a10;
+	--color-prettylights-syntax-markup-ignored-text: #a1a1aa;
+	--color-prettylights-syntax-markup-ignored-bg: #111111;
+	--color-prettylights-syntax-meta-diff-range: #00e5ff;
+	--color-prettylights-syntax-brackethighlighter-angle: #8a8a8a;
+	--color-prettylights-syntax-sublimelinter-gutter-mark: #1f1f1f;
+	--color-prettylights-syntax-constant-other-reference-link: #00e5ff;
+
+	--color-btn-text: #c0c0c0;
+	--color-btn-bg: #0a0a0a;
+	--color-btn-border: #1f1f1f;
+	--color-btn-shadow: 0 0 transparent;
+	--color-btn-inset-shadow: 0 0 transparent;
+	--color-btn-hover-bg: #111111;
+	--color-btn-hover-border: rgba(0, 229, 255, 0.35);
+	--color-btn-active-bg: #111111;
+	--color-btn-active-border: rgba(0, 229, 255, 0.5);
+	--color-btn-selected-bg: #0a0a0a;
+
+	--color-btn-primary-text: #000000;
+	--color-btn-primary-bg: #00e5ff;
+	--color-btn-primary-border: rgba(0, 229, 255, 0.35);
+	--color-btn-primary-shadow: 0 0 20px rgba(0, 229, 255, 0.15);
+	--color-btn-primary-inset-shadow: 0 0 transparent;
+	--color-btn-primary-hover-bg: #00b8d4;
+	--color-btn-primary-hover-border: rgba(0, 229, 255, 0.45);
+	--color-btn-primary-selected-bg: #00b8d4;
+	--color-btn-primary-selected-shadow: 0 0 transparent;
+	--color-btn-primary-disabled-text: rgba(0, 0, 0, 0.45);
+	--color-btn-primary-disabled-bg: rgba(0, 229, 255, 0.35);
+	--color-btn-primary-disabled-border: rgba(0, 229, 255, 0.15);
+
+	--color-action-list-item-default-hover-bg: rgba(0, 229, 255, 0.08);
+	--color-segmented-control-bg: rgba(0, 229, 255, 0.06);
+	--color-segmented-control-button-bg: #000000;
+	--color-segmented-control-button-selected-border: rgba(0, 229, 255, 0.35);
+
+	--color-fg-default: #ffffff;
+	--color-fg-muted: #a1a1aa;
+	--color-fg-subtle: #8a8a8a;
+	--color-canvas-default: #000000;
+	--color-canvas-overlay: #0a0a0a;
+	--color-canvas-inset: #000000;
+	--color-canvas-subtle: #0a0a0a;
+	--color-border-default: #1f1f1f;
+	--color-border-muted: #1f1f1f;
+	--color-neutral-muted: rgba(161, 161, 170, 0.2);
+
+	--color-accent-fg: #00e5ff;
+	--color-accent-emphasis: #00b8d4;
+	--color-accent-muted: rgba(0, 229, 255, 0.25);
+	--color-accent-subtle: rgba(0, 229, 255, 0.08);
+
+	--color-success-fg: #00e5ff;
+	--color-attention-fg: #c0c0c0;
+	--color-attention-muted: rgba(192, 192, 192, 0.25);
+	--color-attention-subtle: rgba(192, 192, 192, 0.08);
+	--color-danger-fg: #f87171;
+	--color-danger-muted: rgba(248, 113, 113, 0.25);
+	--color-danger-subtle: rgba(248, 113, 113, 0.1);
+
+	--color-primer-shadow-inset: 0 0 transparent;
+	--color-scale-gray-7: #111111;
+	--color-scale-blue-8: rgba(0, 229, 255, 0.12);
+	--color-social-reaction-bg-hover: var(--color-scale-gray-7);
+	--color-social-reaction-bg-reacted-hover: var(--color-scale-blue-8);
+}
+
+main .pagination-loader-container {
+	background-image: url('https://github.com/images/modules/pulls/progressive-disclosure-line-dark.svg');
+}
+
+/* ===== Root ===== */
+.gsc-homepage-bg {
+	background-color: transparent;
+}
+
+/* ===== Header ===== */
+.gsc-header {
+	padding-bottom: 0.75rem;
+}
+
+.gsc-reactions-count {
+	display: none;
+}
+
+/* ===== Section ordering — form first, then comments ===== */
+.gsc-comments > .gsc-header {
+	order: 1;
+}
+
+.gsc-comments > .gsc-comment-box {
+	order: 2;
+	margin-bottom: 2rem;
+}
+
+.gsc-comments > .gsc-timeline {
+	order: 3;
+}
+
+/* ===== Comment form — naked, no card wrapper ===== */
+.gsc-comment-box-tabs {
+	border-bottom: 1px solid #1f1f1f !important;
+	margin-bottom: 0.75rem;
+}
+
+.gsc-comment-box-tab {
+	color: #a1a1aa !important;
+	font-size: 0.875rem !important;
+}
+
+.gsc-comment-box-tab.gsc-tab-active {
+	color: #00e5ff !important;
+	border-bottom-color: #00e5ff !important;
+}
+
+.gsc-comment-box-textarea,
+.gsc-reply-textarea {
+	border: 1px solid #1f1f1f !important;
+	border-radius: 0.375rem !important;
+	background: #0a0a0a !important;
+	color: #ffffff !important;
+	font-size: 0.875rem !important;
+	padding: 0.5rem 0.75rem !important;
+}
+
+.gsc-comment-box-textarea:focus,
+.gsc-reply-textarea:focus {
+	border-color: #00e5ff !important;
+	box-shadow: 0 0 0 1px rgba(0, 229, 255, 0.35) !important;
+	outline: none !important;
+}
+
+/* "Sign in with GitHub" button for unauthenticated users */
+.gsc-login-btn {
+	display: inline-flex !important;
+	align-items: center !important;
+	gap: 0.5rem !important;
+	background: #0a0a0a !important;
+	border: 1px solid #1f1f1f !important;
+	color: #c0c0c0 !important;
+	border-radius: 0.375rem !important;
+	font-size: 0.875rem !important;
+	font-weight: 500 !important;
+	padding: 0.5rem 1rem !important;
+	transition: background 0.15s, border-color 0.15s, color 0.15s !important;
+	text-decoration: none !important;
+}
+
+.gsc-login-btn:hover {
+	background: #111111 !important;
+	border-color: rgba(0, 229, 255, 0.35) !important;
+	color: #ffffff !important;
+}
+
+/* ===== Comment list ===== */
+.gsc-timeline {
+	display: flex;
+	flex-direction: column-reverse;
+	gap: 1.5rem;
+}
+
+/* Flat comment items — strip GitHub card styling */
+.gsc-comment {
+	background: transparent !important;
+	border: none !important;
+	border-radius: 0 !important;
+	box-shadow: none !important;
+	padding: 0 !important;
+}
+
+.gsc-comment-header {
+	background: transparent !important;
+	border-bottom: none !important;
+	border-radius: 0 !important;
+	padding: 0 0 0.25rem 0 !important;
+}
+
+.gsc-comment-content,
+.gsc-reply-content {
+	background: transparent !important;
+	border: none !important;
+	border-radius: 0 !important;
+	padding: 0 !important;
+	color: #c0c0c0 !important;
+}
+
+/* Avatar — matches chillzone's border-cyan/30 bg-cyan/10 treatment */
+.gsc-comment .avatar,
+.gsc-reply-author .avatar {
+	border: 1px solid rgba(0, 229, 255, 0.3) !important;
+	background: rgba(0, 229, 255, 0.1) !important;
+	box-shadow: none !important;
+}
+
+/* Author name */
+.gsc-comment-author,
+.gsc-reply-author .author {
+	color: #ffffff !important;
+	font-weight: 600 !important;
+	font-size: 0.875rem !important;
+}
+
+/* Timestamp */
+.gsc-comment-author .color-fg-muted,
+.gsc-reply-header .color-fg-muted {
+	color: #a1a1aa !important;
+	font-size: 0.75rem !important;
+}
+
+/* Comment body text */
+.comment-body,
+.gsc-comment-content .markdown-body,
+.gsc-reply-content .markdown-body {
+	color: #c0c0c0 !important;
+	font-size: 0.875rem !important;
+}
+
+.comment-body p,
+.comment-body li,
+.comment-body blockquote {
+	color: #c0c0c0 !important;
+}
+
+/* Hide reactions — chillzone doesn't have them */
+.gsc-comment .comment-reactions,
+.gsc-comment-reactions,
+.gsc-social-reaction-summary-item,
+.gsc-reactions {
+	display: none !important;
+}
+
+/* ===== Loading ===== */
+main .gsc-loading-image {
+	background-image: url('https://github.githubassets.com/images/mona-loading-dark.gif');
+}
