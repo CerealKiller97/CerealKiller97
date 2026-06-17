@@ -71,7 +71,9 @@ src="https://icon.icepanel.io/Technology/png-shadow-512/Linux.png" />
 
 ### :memo: Latest articles
 <!-- BLOG-POST-LIST:START -->
-
+- [How I Use CQRS in My Go Projects](https://stefanbogdanovic.dev/blog/go-cqrs)
+- [Open Source Maintainer Playbook](https://stefanbogdanovic.dev/blog/open-source-playbook)
+- [SvelteKit + Tailwind for Developer Portfolios](https://stefanbogdanovic.dev/blog/sveltekit-portfolio)
 <!-- BLOG-POST-LIST:END -->
 
 If you have any questions or if you want to connect with me, feel free to drop me an email at stefan@stefanbogdanovic.dev
