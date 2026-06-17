@@ -1,7 +1,7 @@
 ### Hi, I'm Stefan Bogdanović 👋
 
-[<img src="https://img.shields.io/badge/personal_website-%230077B5.svg?&style=for-the-badge&color=00e5ff" />](https://stefanbogdanovic.dev)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bogdanovic-stefan)
+[<img src="https://www.shieldcn.dev/badge/Website-stefanbogdanovic.dev-181717.svg?logo=ri%3ALuLink&variant=default&size=sm&theme=slate&color=00e5ff&mode=dark" />](https://stefanbogdanovic.dev)
+[<img src="https://www.shieldcn.dev/badge/LinkedIn-%40bogdanovic--stefan-0A66C2.svg?logo=linkedin&variant=branded&size=sm&theme=slate" />](https://www.linkedin.com/in/bogdanovic-stefan)
 
 As a versatile and experienced Software Developer, I have a strong focus on developing web applications and microservices, and I am dedicated to delivering robust, reliable, and high-performance software. My work emphasizes system architecture design, API integration, and automation, while I prioritize writing clean, simple, and testable code that ensures maintainability and readability.
 
