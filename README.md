@@ -69,6 +69,10 @@ src="https://icon.icepanel.io/Technology/png-shadow-512/Linux.png" />
 
 ---
 
+### :memo: Latest articles
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
 
 If you have any questions or if you want to connect with me, feel free to drop me an email at stefan@stefanbogdanovic.dev
   
