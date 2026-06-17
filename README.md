@@ -1,6 +1,6 @@
 ### Hi, I'm Stefan Bogdanović 👋
 
-[<img src="https://img.shields.io/badge/personal_website-%230077B5.svg?&style=for-the-badge&color=08a6a5" />](https://stefanbogdanovic.dev)
+[<img src="https://img.shields.io/badge/personal_website-%230077B5.svg?&style=for-the-badge&color=00e5ff" />](https://stefanbogdanovic.dev)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bogdanovic-stefan)
 
 As a versatile and experienced Software Developer, I have a strong focus on developing web applications and microservices, and I am dedicated to delivering robust, reliable, and high-performance software. My work emphasizes system architecture design, API integration, and automation, while I prioritize writing clean, simple, and testable code that ensures maintainability and readability.
@@ -52,6 +52,17 @@ I actively contribute to open source projects and support the open source commun
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="Ansible" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="Github Actions" width="26px"
+src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg" />
+<img align="left" alt="Bash" width="26px"
+src="https://icon.icepanel.io/Technology/png-shadow-512/Bash.png" />
+<img align="left" alt="Python" width="26px"
+src="https://icon.icepanel.io/Technology/svg/Python.svg" />
+
+<img align="left" alt="Linux" width="26px"
+src="https://icon.icepanel.io/Technology/png-shadow-512/Linux.png" />
+
+
 
 <br />
 <br />
