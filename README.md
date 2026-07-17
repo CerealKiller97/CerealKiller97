@@ -3,7 +3,9 @@
 [<img src="https://www.shieldcn.dev/badge/Website-stefanbogdanovic.dev-181717.svg?logo=ri%3ALuLink&variant=default&size=sm&theme=slate&color=00e5ff&mode=dark" />](https://stefanbogdanovic.dev)
 [<img src="https://www.shieldcn.dev/badge/LinkedIn-%40bogdanovic--stefan-0A66C2.svg?logo=linkedin&variant=branded&size=sm&theme=slate" />](https://www.linkedin.com/in/bogdanovic-stefan)
 
-As a versatile and experienced Software Developer, I have a strong focus on developing web applications and microservices, and I am dedicated to delivering robust, reliable, and high-performance software. My work emphasizes system architecture design, API integration, and automation, while I prioritize writing clean, simple, and testable code that ensures maintainability and readability.
+I’m an experienced Software Developer focused on building web applications and microservices. I prioritize clean, simple, and testable code that is easy to maintain and understand.  
+
+I actively contribute to open-source projects and support the open-source community. I’m also the proud owner of the BrosSquad organization.
 
 I actively contribute to open source projects and support the open source community.
  <br /> Proud member and owner of organization [BrosSquad](https://github.com/BrosSquad).
